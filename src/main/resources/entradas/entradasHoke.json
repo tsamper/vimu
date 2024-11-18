@@ -1,0 +1,42 @@
+[
+    {
+        "precio": 20,
+        "tipo": "Normal",
+        "fecha_compra": "2024-06-02T20:12:06",
+        "grupo": "Hoke en Murcia",
+        "usuario": "Tomás Samper",
+        "id": 1
+    },
+    {
+        "precio": 20,
+        "tipo": "Normal",
+        "fecha_compra": "2024-06-02T20:12:06",
+        "grupo": "Hoke en Murcia",
+        "usuario": "Tomás Samper",
+        "id": 2
+    },
+    {
+        "precio": 20,
+        "tipo": "Normal",
+        "fecha_compra": "2024-06-02T20:12:06",
+        "grupo": "Hoke en Murcia",
+        "usuario": "Tomás Samper",
+        "id": 3
+    },
+    {
+        "precio": 20,
+        "tipo": "Normal",
+        "fecha_compra": "2024-06-02T20:12:06",
+        "grupo": "Hoke en Murcia",
+        "usuario": "Tomás Samper",
+        "id": 4
+    },
+    {
+        "precio": 20,
+        "tipo": "Normal",
+        "fecha_compra": "2024-06-02T20:12:06",
+        "grupo": "Hoke en Murcia",
+        "usuario": "Tomás Samper",
+        "id": 5
+    }
+]

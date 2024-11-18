@@ -1,0 +1,42 @@
+.search-field {
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 10px;
+    -fx-padding: 7 7 7 7;
+    -fx-border-color: rgba(0, 0, 0, 0.4);
+    -fx-border-width: 2px;
+    -fx-border-radius: 10px;
+    -fx-text-fill: #0d0c22;
+    -fx-prompt-text-fill: #9e9ea7;
+}
+
+/* ComboBox styling to match button styles */
+.combo-box {
+    -fx-background-color: #f3f3f4;
+    -fx-border-color: #bdbdbd;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-font-size: 14px;
+    -fx-pref-height: 34px;
+    -fx-text-fill: #333333;
+}
+
+.combo-box:hover {
+    -fx-background-color: #e6e6e6;
+}
+
+
+
+/*
+.search-field:focused {
+    -fx-border-color: rgba(0, 91, 203, 0.4);
+    -fx-border-radius: 30px;
+    -fx-box-shadow: 0 0 0 4px rgba(234, 76, 137, 0.1);
+}
+*/
+/*
+.search-icon {
+    -fx-graphic: url("file:src/main/resources/img/search-icon.png");
+    -fx-graphic-size: 16px 16px;
+    -fx-padding: 0 10 0 10;
+}
+*/
